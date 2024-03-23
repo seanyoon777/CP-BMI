@@ -1,0 +1,6 @@
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/biosig4octmat-3.8.4/
+**/data/
+.DS_Store
+**/.DS_Store
