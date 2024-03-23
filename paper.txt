@@ -1,0 +1,14 @@
+
+- Re-write the caption for the experiemnt figure as a conceptual delineation of how the experiments work. 
+- Put explanation about conformity scores in the introduction so that we can talk about it in systematic differnece detection
+
+- Change the p value plot x axis names. unify to size of data. Also, u gotta change test 2 legend too. 
+
+
+- Maybe we might make a table? 
+
+Test 1 | Test 2 | Test 3 | 
+       | S1 |S2 | S1 | S2|
+
+
+- We see 
